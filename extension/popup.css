@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    background: white;
+    font-size: 16px;
+}
+
+#popup-wrap {
+    width:400px;
+    padding:8px;
+}
+
